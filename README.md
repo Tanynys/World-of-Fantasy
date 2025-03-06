@@ -48,5 +48,6 @@ Las tiradas de atributos se hace haciendo click en su nombre, salvo que sean con
 ![tiradas](https://github.com/user-attachments/assets/cb80366f-d3ee-4d21-b92a-41349f39bcbe)
 
 El chat desvuelve la resolución de la tirada.
+
 ![tirada2](https://github.com/user-attachments/assets/e6b70e9e-c2f3-4871-b190-b7840e7f11eb)
 
