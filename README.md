@@ -47,7 +47,7 @@ TIRADAS
 Las tiradas de atributos se hace haciendo click en su nombre, salvo que sean con ventaja o desventaja que se hace sobre los botones a su derecha, se pueden marcar los estados herido, fatigado y roto que modifcan las tiradas sean normales o con ventaja o desventaja. La suerte se tira en el dado que hay a su lado.
 ![tiradas](https://github.com/user-attachments/assets/cb80366f-d3ee-4d21-b92a-41349f39bcbe)
 
-El chat desvuelve la resolución de la tirada.
+El chat devuelve la resolución de la tirada.
 
 ![tirada2](https://github.com/user-attachments/assets/e6b70e9e-c2f3-4871-b190-b7840e7f11eb)
 
