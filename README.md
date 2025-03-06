@@ -12,7 +12,7 @@ A Dani Vicente por crear el juego La Caza y por darme permiso para compartirlo c
 
 INSTALACIÓN
 
-Descargar archivo ZIP del repositorio (ver imagen), descomprimir, cambiar nombre de la carpeta a "la-caza" y subir a carpeta "worlds" en Foundry (...foundrydata/Data/worlds/)
+Descargar archivo ZIP del repositorio (ver imagen), descomprimir, cambiar nombre de la carpeta a "world-of-fantasy" y subir a carpeta "worlds" en Foundry (...foundrydata/Data/worlds/)
 
 ![Instalación](https://github.com/user-attachments/assets/482f7393-3c9a-441d-be94-a7fd4fb19de2)
 
