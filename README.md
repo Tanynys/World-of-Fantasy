@@ -6,6 +6,7 @@ AVISO: No soy programador ni entiendo de CSS. Este sistema se ha creado, y se of
 Agradecimientos:
 
 A Pedro Bariengo cuyo CSS para su sistema Raven he fusilado sin piedad junto con algunos elementos gráficos.
+
 A Dani Vicente por crear el juego La Caza y por darme permiso para compartirlo con la comunidad.
 
 
