@@ -25,6 +25,7 @@ Solo tenemos que ir al icono de "Actors", hacer click en "Create Actor", ponerle
 ![Crear1](https://github.com/user-attachments/assets/1f246c12-926f-4c08-ae84-7021f7f3b2cd)
 
 Por último hacemos clik en la hoja en "Reload Template" para que cargue la plantilla (Ver imagen)
+
 ![cear2](https://github.com/user-attachments/assets/ec43bcaa-dcc2-4607-949f-cb5bc5090b68)
 
 
